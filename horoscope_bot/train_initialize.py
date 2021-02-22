@@ -28,4 +28,4 @@ if __name__ == '__main__':
             validation_split=0.2
     )
 
-    agent.persist(model_path) 
+    agent.persist(model_path)
